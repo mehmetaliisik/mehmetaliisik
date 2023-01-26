@@ -12,6 +12,6 @@ Hi there 👋<br>I'm Mehmet Ali, Fullstack developer from  Istanbul, Türkiye.<b
  ![https://github-readme-stats.vercel.app/api?username=hussaino03&show_icons=true&theme=radical](https://github-readme-stats.vercel.app/api?username=mehmetaliisik&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
  ![https://github-readme-stats.vercel.app/api?username=hussaino03&show_icons=true&theme=radical](https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetaliisik&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)"
  ---
- [![https://github-readme-stats.vercel.app/api/top-langs/?username=hussaino03&theme=radical&layout=compact](https://visitcount.itsvg.in/api?id=mehmetaliisik&icon=0&color=0)](https://visitcount.itsvg.in)
+ [[![https://github-readme-stats.vercel.app/api/top-langs/?username=hussaino03&theme=radical&layout=compact](https://visitcount.itsvg.in/api?id=mehmetaliisik&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
