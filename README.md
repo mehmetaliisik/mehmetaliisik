@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there 👋<br>I'm Mehmet Ali, Fullstack developer from  Istanbul, Türkiye.<br>Currently studying at Yildiz Technical University for Mechatronics Eng.(4/4)
+Hi there 👋<br>I'm Mehmet Ali, Mechatronics Engineer from  Istanbul, Türkiye.
 
 
 ## 🌐 Socials:
